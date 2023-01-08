@@ -1,5 +1,7 @@
 # Overview
 
+app.js found in `/app/src/main/java/demo/`
+
 This Java project is going to be a part of my web app backend to communicate with a JS game running in browser on my personal server.
 
 This software (currently displays Hello World) logs player names and scores and then sends out a list of all players for display on the frontend.
