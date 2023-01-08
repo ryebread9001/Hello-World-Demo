@@ -8,7 +8,7 @@ This software (currently displays Hello World) logs player names and scores and 
 
 I am creating this to better learn java backend.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/b56q3i6EN5M)
 
 # Development Environment
 
